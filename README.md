@@ -5,7 +5,7 @@ For the College Project we wanted to use Regression methods to prove or disprove
 
 The contributors for this part of the project where
 César Sibila (Me)
-André Messina Livinston
+André Messina Livingston
 Willian Fernandes Dias
 Enzo Kikuji Takida
 
